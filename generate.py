@@ -8,6 +8,7 @@ asd --name tr_a2_b 1.3 --arg1 fixed --arg2 2 --arg3  1.3
 asd --name tr_a3_b1.2 --arg1 fixed --arg2 3 --arg3 1.2
 asd --name tr_a3_b 1.3 --arg1 fixed --arg2 3 --arg3  1.3
 '''
+# TODO tied arguments
 
 from __future__ import absolute_import
 from __future__ import division
